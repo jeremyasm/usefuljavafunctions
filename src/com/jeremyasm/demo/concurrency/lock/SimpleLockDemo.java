@@ -1,4 +1,4 @@
-package com.jeremyasm.demo.lock;
+package com.jeremyasm.demo.concurrency.lock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-package com.jeremyasm.demo.lock;
+package com.jeremyasm.demo.concurrency.lock;
 
 public class NoLockDemo {
 		
